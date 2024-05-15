@@ -1,7 +1,22 @@
 {
-    "https://example.com": [
-        "<h1>Example Domain</h1>",
-        "<p>This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.</p>",
-        "<p><a href=\"https://www.iana.org/domains/example\">More information...</a></p>"
+    "https://www.infotec.com.pe/3-laptops-y-notebooks": [
+        "<h1 class=\"h1 page-title\"><span>Laptops y Notebooks</span></h1>",
+        "<p class=\"title_block\">\u00bfQu\u00e9 est\u00e1s buscando ahora?</p>",
+        "<p><a href=\"https://www.infotec.com.pe/reclamaciones/\"><img alt=\"LIBRO DE RECLAMACIONES DIGITAL.png\" height=\"48\" src=\"https://www.infotec.com.pe/img/cms/Logo/LIBRO%20DE%20RECLAMACIONES%20DIGITAL.png\" width=\"120\"/></a>\u00a0 \u00a0\u00a0 <img alt=\"CCL%20CAMARA%20DE%20COMERCIO%20DE%20LIMA.png\" height=\"27\" src=\"https://www.infotec.com.pe/img/cms/Logo/CCL%20CAMARA%20DE%20COMERCIO%20DE%20LIMA.png\" width=\"120\">\u00a0</img></p>",
+        "<p><img alt=\"GARANTIA%20DE%20SATISFACCION.png\" height=\"69\" src=\"https://www.infotec.com.pe/img/cms/Logo/GARANTIA%20DE%20SATISFACCION.png\" width=\"70\">\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"AN%CC%83OS%20DE%20EXPERIENCIA.png\" height=\"70\" src=\"https://www.infotec.com.pe/img/cms/Logo/AN%CC%83OS%20DE%20EXPERIENCIA.png\" width=\"70\"> \u00a0</img></img></p>",
+        "<p></p>",
+        "<p></p>",
+        "<p style=\"text-align:center;\">\u00a9\n<script type=\"text/javascript\"><!--//--><![CDATA[//><!--\nvar d = new Date();\ndocument.write(d.getFullYear());\n//--><!]]></script>\n<a href=\"http://bitzen.cl/\"><span style=\"color:#000000;\">Implementada por </span><img alt=\"\" height=\"32\" src=\"https://bitzen.cl/img/cms/Bitzen-logo-Final.png\" width=\"60\"/></a></p>",
+        "<p> Guarda productos en tu lista de deseos para comprarlos m\u00e1s tarde o compartirlos con tus amigos.</p>"
+    ],
+    "https://www.infotec.com.pe/module/iqitwishlist/view": [
+        "<h1 class=\"h1 page-title\"><span>\n  Ingrese a su cuenta\n</span></h1>",
+        "<p class=\"title_block\">\u00bfQu\u00e9 est\u00e1s buscando ahora?</p>",
+        "<p><a href=\"https://www.infotec.com.pe/reclamaciones/\"><img alt=\"LIBRO DE RECLAMACIONES DIGITAL.png\" height=\"48\" src=\"https://www.infotec.com.pe/img/cms/Logo/LIBRO%20DE%20RECLAMACIONES%20DIGITAL.png\" width=\"120\"/></a>\u00a0 \u00a0\u00a0 <img alt=\"CCL%20CAMARA%20DE%20COMERCIO%20DE%20LIMA.png\" height=\"27\" src=\"https://www.infotec.com.pe/img/cms/Logo/CCL%20CAMARA%20DE%20COMERCIO%20DE%20LIMA.png\" width=\"120\"/>\u00a0</p>",
+        "<p><img alt=\"GARANTIA%20DE%20SATISFACCION.png\" height=\"69\" src=\"https://www.infotec.com.pe/img/cms/Logo/GARANTIA%20DE%20SATISFACCION.png\" width=\"70\"/>\u00a0 \u00a0 \u00a0 \u00a0 <img alt=\"AN%CC%83OS%20DE%20EXPERIENCIA.png\" height=\"70\" src=\"https://www.infotec.com.pe/img/cms/Logo/AN%CC%83OS%20DE%20EXPERIENCIA.png\" width=\"70\"/> \u00a0</p>",
+        "<p></p>",
+        "<p></p>",
+        "<p style=\"text-align:center;\">\u00a9\n<script type=\"text/javascript\"><!--//--><![CDATA[//><!--\nvar d = new Date();\ndocument.write(d.getFullYear());\n//--><!]]></script>\n<a href=\"http://bitzen.cl/\"><span style=\"color:#000000;\">Implementada por </span><img alt=\"\" height=\"32\" src=\"https://bitzen.cl/img/cms/Bitzen-logo-Final.png\" width=\"60\"/></a></p>",
+        "<p> Guarda productos en tu lista de deseos para comprarlos m\u00e1s tarde o compartirlos con tus amigos.</p>"
     ]
 }

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from urllib.parse import urljoin
 
 def get_page_content(url):
     try:
@@ -40,11 +41,13 @@ def crawl_website(start_url):
         soup = BeautifulSoup(html_content, 'html.parser')
         links = [link['href'] for link in soup.find_all('a', href=True)]
 
+        base_url = url  # Base URL for handling relative links
+
         for link in links:
             if link.startswith('http'):  # Filter external links
                 continue
             elif link.startswith('/'):  # Handle relative links
-                absolute_link = start_url.rstrip('/') + link
+                absolute_link = urljoin(base_url, link)
             else:
                 continue
 
@@ -57,5 +60,5 @@ def crawl_website(start_url):
         json.dump(results, f, indent=4)
 
 if __name__ == '__main__':
-    start_url = 'https://example.com'  # Replace with the starting URL
+    start_url = 'https://www.infotec.com.pe/3-laptops-y-notebooks'  # Reemplazar con la URL de inicio correcta
     crawl_website(start_url)
